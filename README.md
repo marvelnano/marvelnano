@@ -15,6 +15,7 @@ My name is José, I'm from Perú and I'm an Back End Developer PHP.
 * Critical thinking, decision-making and problem solving skills.
 * Some Python coding.
 * Some Java coding.
+* Good knowledge of new technologies in general.
 * Teamwork experience.
 * I Like to teach and learn every day.
 
