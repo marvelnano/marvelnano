@@ -8,15 +8,16 @@ My name is José, I'm from Perú and I'm an Back End Developer PHP.
 
 ## Skills
 
+* Managing MVC and Frameworks since 2012. 
 * Using SQL Server in production since 2012.
 * Using Sybase in production since 2016.
 * HTML, JS, AJAX, PHP, all things systems analysis :)
-* Experience leading a team of 03 people in projects.
-* Critical thinking, decision-making and problem solving skills.
 * Some Python coding.
 * Some Java coding.
 * Good knowledge of new technologies in general.
+* Experience leading a team of 03 people in projects.
 * Teamwork experience.
+* Critical thinking, decision-making and problem solving skills.
 * I Like to teach and learn every day.
 
 ## Contact
