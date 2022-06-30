@@ -22,4 +22,4 @@ My name is José, I'm from Perú and I'm an Back End Developer PHP.
 
 ## Contact
 
-Find all of my socials and resume in my [website](https://solucionesjv.com)
+Find all of my socials and resume in my [website](http://solucionesjv.com)
