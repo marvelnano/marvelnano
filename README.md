@@ -2,7 +2,7 @@
 
 My name is José, I'm from Perú and I'm an Back End Developer PHP.
 
-* Currently working for TECSOFT.
+* Currently working for AVALON SOLUCIONES SAC.
 <!-- * I have a [YouTube channel](https://youtube.com/peladonerd) (in Spanish) about SRE technologies like Docker and Kubernetes. -->
 * I offer consulting hours, you can find a slot [here]<!--(https://peladonerd.as.me)-->
 
@@ -13,7 +13,7 @@ My name is José, I'm from Perú and I'm an Back End Developer PHP.
 * Using Sybase in production since 2016.
 * HTML, JS, AJAX, PHP, all things systems analysis :)
 * Some Python coding.
-* Some Java coding.
+* Knowledge Java coding, Angular and Node JS coding.
 * Good knowledge of new technologies in general.
 * Experience leading a team of 03 people in projects.
 * Teamwork experience.
