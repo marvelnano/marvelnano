@@ -1,6 +1,6 @@
 ## Hello 👋
 
-My name is José, I'm from Perú and I'm an Back End Developer PHP.
+My name is José, I'm from Perú and I'm an Back End Developer Java.
 
 * Currently working for AVALON SOLUCIONES SAC.
 <!-- * I have a [YouTube channel](https://youtube.com/peladonerd) (in Spanish) about SRE technologies like Docker and Kubernetes. -->
