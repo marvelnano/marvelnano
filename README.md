@@ -11,7 +11,7 @@ My name is José, I'm from Perú and I'm an Back End Developer Java.
 * Managing MVC and Frameworks since 2012. 
 * Using SQL Server in production since 2012.
 * Using Sybase in production since 2016.
-* HTML, JS, AJAX, PHP, all things systems analysis :)
+* HTML, JS, AJAX, PHP, JAVA, all things systems analysis :)
 * Some Python coding.
 * Knowledge Java coding, Angular and Node JS coding.
 * Good knowledge of new technologies in general.
